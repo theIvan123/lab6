@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build output
+[Bb]in/
+[Oo]bj/
+x64/
+**/x64/
+Debug/
+Release/
